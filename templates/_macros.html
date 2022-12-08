@@ -1,0 +1,8 @@
+{% macro render_header() %}
+{% set section = get_section(path="_index.md") %}
+<a href="{{ section.permalink | safe }}">
+    <div class="logo">
+        {{ config.extra.juice_logo_name }}
+    </div>
+</a>
+{% endmacro render_header %}
