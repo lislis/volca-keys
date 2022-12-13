@@ -17,6 +17,6 @@ highlight_code = false
 [extra]
 juice_logo_name = "Volca Keys Tutorial"
 juice_logo_path = "juice.svg"
-juice_extra_menu = []
 repository_url = "https://github.com/"
 footer = "made by lislis in 2022 with Zola and Juice theme"
+juice_extra_menu = []

@@ -5,11 +5,56 @@
 {%  endblock favicon %}
 
 {% block hero %}
-<div>
-    Your cool hero html...
-</div>
+<section class="text-center">
+    <h1 class="heading-text" style="font-size: 50px">
+        Getting started with the<br> Korg volca keys
+    </h1>
+    <h3 class="title-text">
+        A beginner friendly tutorial <br>for a beginner friendly analog synthesizer
+    </h3>
+</section>
+<img class="hero-image" src="{{ get_url(path="header2.png") }}">
+<style>
+ .hero {
+     height: 65vh;
+ }
+ .hero-image {
+     width: 40%;
+ }
+ .hero section {
+     padding: 0 5rem;
+ }
+
+ @media screen and (max-width: 768px) {
+     .hero section {
+         padding: 0 2rem;
+     }
+
+     .hero-image {
+         display: none
+     }
+ }
+ .index-wrapper {
+     font-size: 22px;
+     line-height: 1.7;
+ }
+ .content {
+     margin: auto;
+ }
+ .content a {
+     background-color: var(--primary-link-color);
+     color: var(--secondary-color);
+     padding: 0.4em 0.6em;
+     border-radius: 4px;
+ }
+</style>
 {% endblock hero %}
 
+{% block content %}
+<div class="index-wrapper">
+    {{ section.content | safe }}
+</div>
+{% endblock content %}
 
 {% block footer %}
 <footer>
