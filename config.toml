@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://lislis.github.io/volca-tutorial"
+base_url = "gorgeous-gelato-2741b3.netlify.app"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = false
@@ -16,7 +16,7 @@ highlight_code = false
 
 [extra]
 juice_logo_name = "Volca Keys Tutorial"
-juice_logo_path = "juice.svg"
-repository_url = "https://github.com/"
+juice_logo_path = ""
+repository_url = "https://github.com/lislis/volca-keys"
 footer = "made by lislis in 2022 with Zola and Juice theme"
 juice_extra_menu = []
