@@ -50,7 +50,7 @@ But let's actually hear something: Under **VCF**, turn **Cutoff** to about a 2 o
 
 Play some notes on the keyboard and change Voice and Octave! Amazing, isn't it?
 
-We'll lean about what we just did in a second. But for playing around there is are a few knobs that make our lives easier, so we'll do that next.
+We'll learn about what we just did in a second. But for playing around there is are a few knobs that make our lives easier, so we'll do that next.
 
 ## EG
 
@@ -86,7 +86,7 @@ Sound is all about waves vibrating or oscillating at a certain frequency. The st
 
 But no sound in nature is so pure! There are a lot of other waves mixed within and they naturally sound good together. These are the so called (harmonic) **overtones** and they also determine how we perceive different sound. Like a piano playing is different from an adult voice singing to a flute playing even if they all play the same note.
 
-With the VCF we can cut away from those overtones and thus change how we perceive the sound without changing the note. The **Cutoff** knob determines just that. Press a note and turn the **Cutoff** knob while holing it (**Sustain** should be turned up, too). Do you hear the difference?
+With the VCF we can cut away from those overtones and thus change how we perceive the sound without changing the note. The **Cutoff** knob determines just that. Press a note and turn the **Cutoff** knob while holding it (**Sustain** should be turned up, too). Do you hear the difference?
 
 Underneath the **Cutoff** is the **Peak** knob. Peak describes the how the curve of the filter looks like and can highlight some of the overtones. Try some configurations with **Cutoff** and **Peak**.
 

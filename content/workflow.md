@@ -58,15 +58,19 @@ Take a minute or two to experiment with recording a **Motion sequence**.
 
 # Active Step
 
-Press **Func** and **Play** together to activate **Active Step** Mode. You should see the Func and Play blinking and all LEDs light up.
+**Active Step** Mode lets you control the sequencer directly. That means we can decide for each step in our sequence **whether or not it should be played**. The default is that every step is played, all LEDs are on, like we had it until now.
 
-In Active Step mode we can decide for each step in our sequence **whether or not it should be played**. The default is that every step is played, all LEDs are on. Try touching a key, the LED turns off and this specific step in the sequence is now deactivated.
+Press **Func** and **Play** together to activate **Active Step** Mode. You should see the Func and Play blinking and all LEDs light up. Try touching a key now, the LED turns off and this specific step in the sequence is now deactivated.
 
-Press **Play** while still in Active Step Mode to hear the changes live. Deactivate all steps except one. Add a few more. Change them again. Get a feel for which parts of your sequence sound good isolated or minimally put together.
+Press **Play** while still in Active Step Mode (the blinking pattern changes) to hear the changes in the sequence live.
+
+Deactivate all steps except one. Add a few more. Change them again. Get a feel for which parts of your sequence sound good isolated or minimally put together.
 
 Press **Func** again to leave Active Step Mode. You can always enter and change this again.
 
 You can use Active Step Mode to arrange or perform your sequence and bring a more exciting live element to it!
+
+Experiment and figure out what you like!
 
 # Saving to memory
 
@@ -77,3 +81,13 @@ Remember that even when playing from memory you can still manipulate the sound a
 # That's it!
 
 Congrats, you have the basics of the volca keys down!
+
+But what's next? That depends on you!
+
+There are a couple of things we didn't cover, since they require bit more experience, but feel free to research them.
+
+Or you can look into how to combine multiple Volcas together via the MIDI or Sync jacks.
+
+Or try to get your recodings into a DAW like Ableton for example.
+
+This is only the beginning!
